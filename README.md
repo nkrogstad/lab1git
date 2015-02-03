@@ -1,2 +1,2 @@
 # lab1git
-Nick Krogstad Zach Moore
+Nick Krogstad Zach Moore & Mohammed Alyahya
